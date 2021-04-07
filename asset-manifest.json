@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dine-restaurant%3E/static/css/main.79e2ea2e.chunk.css",
+    "main.css": "/dine-restaurant%3E/static/css/main.9c872f81.chunk.css",
     "main.js": "/dine-restaurant%3E/static/js/main.5b60b54f.chunk.js",
     "main.js.map": "/dine-restaurant%3E/static/js/main.5b60b54f.chunk.js.map",
     "runtime-main.js": "/dine-restaurant%3E/static/js/runtime-main.520f3b0f.js",
@@ -10,7 +10,7 @@
     "static/js/3.0fe1b959.chunk.js": "/dine-restaurant%3E/static/js/3.0fe1b959.chunk.js",
     "static/js/3.0fe1b959.chunk.js.map": "/dine-restaurant%3E/static/js/3.0fe1b959.chunk.js.map",
     "index.html": "/dine-restaurant%3E/index.html",
-    "static/css/main.79e2ea2e.chunk.css.map": "/dine-restaurant%3E/static/css/main.79e2ea2e.chunk.css.map",
+    "static/css/main.9c872f81.chunk.css.map": "/dine-restaurant%3E/static/css/main.9c872f81.chunk.css.map",
     "static/js/2.c5872d3c.chunk.js.LICENSE.txt": "/dine-restaurant%3E/static/js/2.c5872d3c.chunk.js.LICENSE.txt",
     "static/media/enjoyable-place-desktop.06399aa5.jpg": "/dine-restaurant%3E/static/media/enjoyable-place-desktop.06399aa5.jpg",
     "static/media/enjoyable-place-mobile.4b120c5a.jpg": "/dine-restaurant%3E/static/media/enjoyable-place-mobile.4b120c5a.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.520f3b0f.js",
     "static/js/2.c5872d3c.chunk.js",
-    "static/css/main.79e2ea2e.chunk.css",
+    "static/css/main.9c872f81.chunk.css",
     "static/js/main.5b60b54f.chunk.js"
   ]
 }
