@@ -1,0 +1,20 @@
+//Desktop
+@media (min-width: $mobile-breakpoint) {
+    .main-layout {
+        padding: 0 rem(165px);
+    }
+}
+
+//Tablet
+// @media (min-width: $mobile-breakpoint) and (max-width: $desktop-breakpoint) {
+//     .main-layout {
+//         padding: 0 rem(75px);
+//     }
+// }
+
+//Mobile
+@media (max-width: $mobile-breakpoint) {
+    .main-layout {
+        padding: 0 rem(20px);
+    }
+}
