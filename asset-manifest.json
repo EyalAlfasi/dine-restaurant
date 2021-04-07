@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/dine-restaurant%3E/static/css/main.79e2ea2e.chunk.css",
+    "main.js": "/dine-restaurant%3E/static/js/main.5b60b54f.chunk.js",
+    "main.js.map": "/dine-restaurant%3E/static/js/main.5b60b54f.chunk.js.map",
+    "runtime-main.js": "/dine-restaurant%3E/static/js/runtime-main.520f3b0f.js",
+    "runtime-main.js.map": "/dine-restaurant%3E/static/js/runtime-main.520f3b0f.js.map",
+    "static/js/2.c5872d3c.chunk.js": "/dine-restaurant%3E/static/js/2.c5872d3c.chunk.js",
+    "static/js/2.c5872d3c.chunk.js.map": "/dine-restaurant%3E/static/js/2.c5872d3c.chunk.js.map",
+    "static/js/3.0fe1b959.chunk.js": "/dine-restaurant%3E/static/js/3.0fe1b959.chunk.js",
+    "static/js/3.0fe1b959.chunk.js.map": "/dine-restaurant%3E/static/js/3.0fe1b959.chunk.js.map",
+    "index.html": "/dine-restaurant%3E/index.html",
+    "static/css/main.79e2ea2e.chunk.css.map": "/dine-restaurant%3E/static/css/main.79e2ea2e.chunk.css.map",
+    "static/js/2.c5872d3c.chunk.js.LICENSE.txt": "/dine-restaurant%3E/static/js/2.c5872d3c.chunk.js.LICENSE.txt",
+    "static/media/enjoyable-place-desktop.06399aa5.jpg": "/dine-restaurant%3E/static/media/enjoyable-place-desktop.06399aa5.jpg",
+    "static/media/enjoyable-place-mobile.4b120c5a.jpg": "/dine-restaurant%3E/static/media/enjoyable-place-mobile.4b120c5a.jpg",
+    "static/media/styles.scss": "/dine-restaurant%3E/static/media/pattern-curve-top-right.df37c69d.svg",
+    "static/media/locally-sourced-desktop.957d3e79.jpg": "/dine-restaurant%3E/static/media/locally-sourced-desktop.957d3e79.jpg",
+    "static/media/locally-sourced-mobile.b36f6a49.jpg": "/dine-restaurant%3E/static/media/locally-sourced-mobile.b36f6a49.jpg",
+    "static/media/logo.f6ae2c4c.svg": "/dine-restaurant%3E/static/media/logo.f6ae2c4c.svg",
+    "static/media/menu-item1.7bd94a87.jpg": "/dine-restaurant%3E/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.81249e77.jpg": "/dine-restaurant%3E/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.22eddbf1.jpg": "/dine-restaurant%3E/static/media/menu-item3.22eddbf1.jpg",
+    "static/media/pattern-divide.bf6d0c5c.svg": "/dine-restaurant%3E/static/media/pattern-divide.bf6d0c5c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.520f3b0f.js",
+    "static/js/2.c5872d3c.chunk.js",
+    "static/css/main.79e2ea2e.chunk.css",
+    "static/js/main.5b60b54f.chunk.js"
+  ]
+}
